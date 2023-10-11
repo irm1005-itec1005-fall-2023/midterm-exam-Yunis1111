@@ -88,15 +88,15 @@ p {
   margin-bottom: 15px;
 }
 
-.btn {
-  padding: 10px 20px;
-  border: none;
-  background-color: #008000;
-  color: #FFF; /* Keep the button text color white for better visibility against the black background */
-  cursor: pointer;
-  transition: background-color 0.3s ease;
-  border-radius: 25px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+.btn
+ {
+  margin-top: 3rem;
+  background-color: #7f5539;
+  color: white;
+  padding:0.5rem 8rem;
+  border-radius: 1rem;
+  text-decoration: none;
+  
 }
 
 .btn:hover {
