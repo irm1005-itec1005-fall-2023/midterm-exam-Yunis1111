@@ -88,7 +88,7 @@ p {
   margin-bottom: 15px;
 }
 
-btn {
+.btn {
   padding: 10px 20px;
   border: none;
   background-color: #008000;
@@ -99,7 +99,7 @@ btn {
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
 }
 
-button:hover {
+.btn:hover {
   background-color: #444;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
 }
